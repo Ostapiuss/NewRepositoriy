@@ -1,3 +1,2 @@
-  node_modules
-  .idea
-  .vscode
+- [Preview](https://ostapiuss.github.io/NewRepositoriy/)
+- [Pull Request](https://github.com/Ostapiuss/NewRepositoriy/pull/1)
