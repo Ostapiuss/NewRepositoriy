@@ -1,1 +1,3 @@
-# NewRepositoriy
+  node_modules
+  .idea
+  .vscode
